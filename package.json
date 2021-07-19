@@ -19,6 +19,7 @@
   },
   "homepage": "https://github.com/warintorn1990/practice-nodejs-basic#readme",
   "dependencies": {
+    "formidable": "^1.2.2",
     "upper-case": "^2.0.2"
   }
 }
